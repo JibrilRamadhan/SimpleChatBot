@@ -1,0 +1,33 @@
+{
+  "products": {
+    "banner": {
+      "name": "Spanduk / Banner",
+      "unit": "m2",
+      "base_price_per_m2": 50000,
+      "materials": {
+        "vinyl": 1,
+        "banner": 1,
+        "canvas": 1.2
+      }
+    },
+    "flyer": {
+      "name": "Flyer / Brosur A5",
+      "unit": "pcs",
+      "base_price_per_unit": 800,
+      "materials": {
+        "kertas biasa": 1,
+        "kertas glossy": 1.2,
+        "kertas tebal": 1.5
+      }
+    },
+    "business_card": {
+      "name": "Kartu Nama (standard)",
+      "unit": "pcs",
+      "base_price_per_unit": 600,
+      "materials": {
+        "kertas biasa": 1,
+        "kertas tebal": 1.3
+      }
+    }
+  }
+}

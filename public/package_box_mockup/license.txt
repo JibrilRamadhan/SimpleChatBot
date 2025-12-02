@@ -1,0 +1,11 @@
+Model Information:
+* title:	Package box mockup
+* source:	https://sketchfab.com/3d-models/package-box-mockup-3b68aaab1d7d4bce889a2803b131a375
+* author:	_simone.rizzi (https://sketchfab.com/simone_rizzi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Package box mockup" (https://sketchfab.com/3d-models/package-box-mockup-3b68aaab1d7d4bce889a2803b131a375) by _simone.rizzi (https://sketchfab.com/simone_rizzi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
